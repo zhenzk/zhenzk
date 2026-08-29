@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=zhenzk&label=Visitors&color=0e75b6&style=flat-square" alt="profile views"/>
 </p>
 
-## 🌱 About Me
+## About Me
 
 Fell in love with computers back in 2009, and have been working as a software developer since 2019. My journey spans **Java**, **Python**, **C#** and mainstream frontend frameworks — from government projects (telecom anti-fraud) and Fortune Global 500 manufacturing MES, to a dairy company where I'm now starting a new chapter. Since 2024 I've been exploring **AI**. A night owl at heart, I spend almost every evening learning and chatting on tech forums; watching Chinese animation (donghua) is my way of recharging. In this industry, the only constant is **learning**.
 

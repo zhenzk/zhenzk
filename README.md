@@ -16,15 +16,7 @@
 
 ## 🌱 About Me
 
-- 🖥️ Fell in love with computers back in **2009**
-- 💼 Working as a software developer since **2019**
-- 🧰 Full-stack journey across **Java / Python / C#** and mainstream frontend frameworks
-- 🏛️ Served in **government projects** (telecom anti-fraud) and **Fortune Global 500** manufacturing **MES**
-- 🥛 Now growing with a **dairy company** — a new industry, a new chapter
-- 🤖 Exploring **AI** since 2024
-- 🌙 A night owl: learning and joining tech forums almost every evening
-- 🎌 Big fan of **Chinese animation (donghua)** — my way of recharging
-- 💡 In this industry, the only constant is **learning**
+Fell in love with computers back in 2009, and have been working as a software developer since 2019. My journey spans **Java**, **Python**, **C#** and mainstream frontend frameworks — from government projects (telecom anti-fraud) and Fortune Global 500 manufacturing MES, to a dairy company where I'm now starting a new chapter. Since 2024 I've been exploring **AI**. A night owl at heart, I spend almost every evening learning and chatting on tech forums; watching Chinese animation (donghua) is my way of recharging. In this industry, the only constant is **learning**.
 
 ## 🛠️ Tech Stack
 
